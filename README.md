@@ -12,7 +12,7 @@ Language: [Python](https://www.python.org/)
 
 Core Framework: [PyTorch](https://pytorch.org/) & torchvision
 
-Key Libraries: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) - 
+Key Libraries: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) 
 
 Environment: Local machine with NVIDIA GeForce RTX 3050 GPU acceleration
 

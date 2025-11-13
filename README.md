@@ -1,25 +1,25 @@
-# Mushroom Classification using Convolutional Neural Networks
+# Implementation of AlexNet CNN architecture in CIFAR classification
 This project was developed as a homework assignment for the "Neural Networks" course, focusing on the practical application of Convolutional Neural Networks (CNNs).
 
 ## Project Overview
-The goal was to build and train a CNN model for image classification of mushrooms into their respective genus categories, implementing a full deep learning pipeline.
+The goal was to build and train an AlexNet model for multi-class classification of images, implementing a full deep learning pipeline.
 
 ## Dataset
-Source: Mushrooms Classification (Common Genus) Images from Kaggle
+Source: [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Technical Stack
-Language: Python
+Language: [Python](https://www.python.org/)
 
-Core Framework: PyTorch & torchvision
+Core Framework: [PyTorch](https://pytorch.org/) & torchvision
 
-Key Libraries: NumPy, Pandas, Matplotlib 
+Key Libraries: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) - 
 
 Environment: Local machine with NVIDIA GeForce RTX 3050 GPU acceleration
 
 ## Training Results
-Training Time: ~25 minutes
+Training Time: ~20 minutes
 
-Validation Accuracy: 86.89%
+Validation Accuracy: 71.16
 
-The model demonstrates strong performance in classifying mushroom species, achieving high accuracy while maintaining efficient training times thanks to hardware acceleration.
+The experiment was not as successful as i wanted it to be, but all the mistakes and issues were worked out.
 
